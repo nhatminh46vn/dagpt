@@ -1,0 +1,16 @@
+# conda install --yes --file requirements.txt
+# pip install -r requirements.txt
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+streamlit
+pandas
+matplotlib
+seaborn
+pygwalker
+jupyterlab
+tiktoken
+tabulate
+python-dotenv
+langchain-google-genai
